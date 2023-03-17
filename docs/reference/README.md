@@ -16,3 +16,5 @@ This section of the documentation provides thorough details on the parameters an
 | [rest](../guides/rest-resources.md) | Object containing OO representations of the Admin REST API. See the [API reference documentation](https://shopify.dev/docs/api/admin-rest) for details. |
 
 [Back to main page](../../README.md)
+
+
